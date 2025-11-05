@@ -125,7 +125,7 @@ For the underlying theory, please cite the VGT papers (currently under peer revi
 
 - **ORCID:** [0009-0001-3019-3929](https://orcid.org/0009-0001-3019-3929)
 - **Email:** vgt.researchlab@gmail.com
-- **VGT Phase 1-3 Repository:** [VGT1-Phase1-3](https://github.com/tom7ishiivgtresearchlab/VGT1-Phase1-3) (Private)
+- **VGTI-Phase1-3** (Currently private, will be made public upon completion of peer review)
 
 ---
 
@@ -149,7 +149,7 @@ For the underlying theory, please cite the VGT papers (currently under peer revi
 
 ## ⚖️ License
 
-This repository is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)** - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0) - see the [LICENSE.md](LICENSE.md) file for details.
 
 **Note:** Scientific predictions are factual statements and may have limited copyright protection. The CC BY 4.0 License applies to the documentation and presentation format.
 
