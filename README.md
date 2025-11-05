@@ -2,8 +2,8 @@
 
 **Pre-observation predictions for Virtual Gravitational Theory (VGT) verification**
 
-[![DOI](https://zenodo.org/badge/DOI/PLACEHOLDER.svg)](https://doi.org/PLACEHOLDER)  
-*DOI will be assigned after first release*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17530007.svg)](https://doi.org/10.5281/zenodo.17530007)
+
 
 ---
 
