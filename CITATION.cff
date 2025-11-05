@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this prediction in your research, please cite it as below."
+type: dataset
+title: "Pre-Observation Prediction: VGT Contribution to H₀ Tension"
+version: 1.0.0
+date-released: 2025-11-05
+authors:
+  - family-names: "Ishii"
+    given-names: "Tsutomu"
+    orcid: "https://orcid.org/0009-0001-3019-3929"
+    email: "vgt.researchlab@gmail.com"
+    affiliation: "Independent Researcher"
+abstract: >
+  This repository contains a pre-observation prediction for the contribution
+  of Virtual Gravitational Theory (VGT) to resolving the H₀ tension, to be
+  verified by DESI-II observational results expected in November 2027.
+  Based on VGT's 1-loop quantum corrections, we predict ε ∼ 0.001–0.01,
+  which would reduce the H₀ tension by approximately 10–20% (ΔH₀ ≈ 0.6–1.1 km/s/Mpc).
+keywords:
+  - "H0 tension"
+  - "Hubble constant"
+  - "Virtual Gravitational Theory"
+  - "VGT"
+  - "DESI-II"
+  - "cosmological predictions"
+  - "dark energy"
+  - "cosmology"
+license: MIT
+repository-code: "https://github.com/tom7ishiivgtresearchlab/VGT-Predictions"
