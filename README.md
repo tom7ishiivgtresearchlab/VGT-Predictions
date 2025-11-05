@@ -125,7 +125,7 @@ For the underlying theory, please cite the VGT papers (currently under peer revi
 
 - **ORCID:** [0009-0001-3019-3929](https://orcid.org/0009-0001-3019-3929)
 - **Email:** vgt.researchlab@gmail.com
-- **VGTI-Phase1-3** (Currently private, will be made public upon completion of peer review)
+- **VGTI-IV** (Currently private, will be made public upon completion of peer review)
 
 ---
 
