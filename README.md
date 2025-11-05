@@ -132,17 +132,17 @@ For the underlying theory, please cite the VGT papers (currently under peer revi
 ## 📅 Verification Timeline
 
 ```
-2025 November 5  ← Prediction recorded (this repository)
-     ↓
-2026 Early       ← VGT I-IV peer review completion (expected)
-     ↓
-2026 Mid         ← VGT V preparation (detailed calculations)
-     ↓
-2027 Early-Mid   ← DESI-II observation period
-     ↓
-2027 November    ← DESI-II data release
-     ↓
-2027-2028        ← Verification analysis and publication
+2025 November 5   ← Prediction recorded (this repository)
+         ↓
+2026 Early        ← VGT I-IV peer review completion (expected)
+         ↓
+2026 Mid          ← VGT V preparation (detailed calculations)
+         ↓
+2026              ← DESI 5-year survey completion
+         ↓
+2027 (expected)   ← DESI final data release
+         ↓
+2027-2028         ← Verification analysis and publication
 ```
 
 ---
