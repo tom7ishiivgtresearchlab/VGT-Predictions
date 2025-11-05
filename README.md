@@ -149,9 +149,9 @@ For the underlying theory, please cite the VGT papers (currently under peer revi
 
 ## ⚖️ License
 
-This repository is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)** - see the [LICENSE](LICENSE) file for details.
 
-**Note:** Scientific predictions are factual statements and may have limited copyright protection. The MIT License applies to the documentation and presentation format.
+**Note:** Scientific predictions are factual statements and may have limited copyright protection. The CC BY 4.0 License applies to the documentation and presentation format.
 
 ---
 
