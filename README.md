@@ -54,24 +54,15 @@ Virtual Gravitational Theory provides a first-principles derivation of cosmologi
 
 ---
 
-### H₀ Tension
+### Theoretical Context
 
-VGT does not claim to directly resolve the H₀ tension. The framework provides theoretical context through:
+VGT does not claim to directly resolve specific observational tensions (e.g., H₀ or σ₈). The framework provides theoretical insight through:
 
 1. First-principles derivation of the cosmological constant
 2. Scale-dependent gravitational coupling  
 3. Quantum corrections to cosmological dynamics
 
-**Quantitative Impact:**
-- Direct contribution to H₀: ΔH₀ < 0.5 km/s/Mpc (subdominant effect)
-- Primary value: Theoretical insight into systematic differences
-
----
-
-### Documents
-
-- [English Version](H0_Tension_VGT_Prediction_2025-11-05_EN.md)
-- [日本語版](H0_Tension_VGT_Prediction_2025-11-05_JA.md)
+**Primary value:** Theoretical understanding of why ΛCDM works observationally, while providing deeper foundation and testable predictions at higher precision.
 
 ---
 
@@ -180,11 +171,9 @@ Each prediction includes:
 ## 📂 Repository Structure
 ```
 VGT-Predictions/
-├── README.md                                     # This file
-├── LICENSE.md                                    # CC BY 4.0 License
-├── CITATION.cff                                  # Citation metadata
-├── H0_Tension_VGT_Prediction_2025-11-05_EN.md   # English prediction
-└── H0_Tension_VGT_Prediction_2025-11-05_JA.md   # Japanese prediction
+├── README.md          # This file
+├── LICENSE.md         # CC BY 4.0 License
+└── CITATION.cff       # Citation metadata
 ```
 
 ---
